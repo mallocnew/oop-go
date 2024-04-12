@@ -1,2 +1,1 @@
-# oop-go
-Golang Object Oriented Programming
+# Golang Object Oriented Programming
