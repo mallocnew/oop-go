@@ -1,3 +1,4 @@
 # Golang Object Oriented Programming
 
-[Singleton](./singleton.go)
+[Singleton](./singleton/singleton.go)
+[AbstractFactory](./abstract_factory/AbstractFactory.md)
