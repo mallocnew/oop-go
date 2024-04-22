@@ -1,7 +1,5 @@
 package abstract_factory
 
-// package main
-
 type Car struct {
 	name  string
 	price int

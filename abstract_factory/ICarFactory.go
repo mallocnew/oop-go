@@ -1,7 +1,5 @@
 package abstract_factory
 
-// package main
-
 import "fmt"
 
 type ICarFactory interface {
